@@ -19,7 +19,7 @@ $softurl = 'https://your-website.com';
 $softlogo = 'https://your-website.com/logo.png';
 
 // Version of PHP required
-$php_version = '8.3';
+$php_version = '8.2';
 
 // Version of MySQL required
 $mysql_version = '5.7';
